@@ -1,18 +1,8 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ <h1>Código de Contagem de Números</h1>
+        <p>Este projeto foi desenvolvido no Bootcamp da DIO em parceria com a Claro. O código implementa um sistema simples que realiza a contagem de números inteiros com base na entrada do usuário.</p>
+        <h2>Funcionalidade</h2
+        <ul>
+            <li> O sistema solicita ao usuário dois números inteiros via terminal.</li>
+            <li> O código verifica se o primeiro número é maior que o segundo. Se for, uma exceção personalizada é lançada.</li>
+            <li> Caso o primeiro número não seja maior que o segundo, o programa calcula a diferença entre os dois números e imprime uma contagem a partir de 1 até essa diferença.</li>
+        </ul>
